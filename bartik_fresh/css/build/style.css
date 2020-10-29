@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #616161;
+}
+
+#header .sidebar {
+  background-color: darkslategray;
+  background-image: none;
+}
+
+/*# sourceMappingURL=style.css.map */
